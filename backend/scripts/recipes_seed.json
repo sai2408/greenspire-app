@@ -1,0 +1,1832 @@
+[
+  {
+    "id": "sprout-chaat",
+    "name": "Moong Sprout Chaat Salad",
+    "tagline": "Street-style tangy sprouted moong bowl",
+    "cuisine": "Indian Street",
+    "diet": "veg",
+    "proteins": [
+      "sprouts"
+    ],
+    "prep_time_min": 8,
+    "spice": "medium",
+    "calorie_bucket": "low",
+    "budget": "budget",
+    "dressing_style": "desi",
+    "meal_slot": [
+      "breakfast",
+      "snack",
+      "lunch"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1622732777601-e744c3401d44?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTV8MHwxfHNlYXJjaHwxfHxzcHJvdXRzJTIwc2FsYWQlMjBpbmRpYW4lMjBoZWFsdGh5fGVufDB8fHx8MTc4NDQwNTk5MHww&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Moong sprouts",
+        "qty": 120,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Cucumber, diced",
+        "qty": 60,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomato, diced",
+        "qty": 60,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Red onion, chopped",
+        "qty": 30,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": 10,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Lemon juice",
+        "qty": 15,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Chaat masala",
+        "qty": 3,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Roasted peanuts",
+        "qty": 15,
+        "unit": "g",
+        "category": "Nuts & Seeds"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Rinse 120g moong sprouts under cold water. Dice cucumber, tomato and onion into 1cm cubes."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk 15ml lemon juice with 3g chaat masala and a pinch of salt in a small bowl."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Combine sprouts, veggies and coriander. Pour dressing, top with 15g roasted peanuts and toss gently."
+      }
+    ],
+    "macros": {
+      "calories": 310,
+      "carbs_g": 40,
+      "protein_g": 18,
+      "fat_g": 9
+    }
+  },
+  {
+    "id": "tandoori-paneer",
+    "name": "Tandoori Paneer Warm Salad",
+    "tagline": "Smoky tandoori paneer over crisp greens",
+    "cuisine": "Tandoori",
+    "diet": "veg",
+    "proteins": [
+      "paneer"
+    ],
+    "prep_time_min": 20,
+    "spice": "high",
+    "calorie_bucket": "medium",
+    "budget": "budget",
+    "dressing_style": "desi",
+    "meal_slot": [
+      "lunch",
+      "dinner"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMHNhbGFkJTIwYm93bHxlbnwwfHx8fDE3ODQ0MDU5OTB8MA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Paneer cubes",
+        "qty": 120,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Hung curd",
+        "qty": 40,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Tandoori masala",
+        "qty": 6,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Mixed lettuce",
+        "qty": 80,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Bell pepper strips",
+        "qty": 50,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Onion rings",
+        "qty": 30,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Mint-coriander chutney",
+        "qty": 20,
+        "unit": "ml",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Marinate 120g paneer in 40g hung curd + 6g tandoori masala for 10 min. Grill on a pan 2 min each side."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk 20ml mint-coriander chutney with 5ml water for pourable consistency."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Layer lettuce, peppers and onion in a bowl. Top with warm paneer and drizzle dressing."
+      }
+    ],
+    "macros": {
+      "calories": 480,
+      "carbs_g": 18,
+      "protein_g": 28,
+      "fat_g": 32
+    }
+  },
+  {
+    "id": "chickpea-kachumber",
+    "name": "Chickpea Kachumber Bowl",
+    "tagline": "Protein-packed kala chana with kachumber",
+    "cuisine": "Indian Street",
+    "diet": "veg",
+    "proteins": [
+      "chickpeas"
+    ],
+    "prep_time_min": 10,
+    "spice": "mild",
+    "calorie_bucket": "medium",
+    "budget": "budget",
+    "dressing_style": "desi",
+    "meal_slot": [
+      "lunch",
+      "snack"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxjaGlja3BlYSUyMHNhbGFkfGVufDB8fHx8MTc4NDQwNTk5MHww&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled chickpeas",
+        "qty": 150,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Cucumber",
+        "qty": 70,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": 60,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Green chili, minced",
+        "qty": 2,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Lemon juice",
+        "qty": 10,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Roasted cumin powder",
+        "qty": 2,
+        "unit": "g",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Drain 150g boiled chickpeas. Finely dice cucumber, tomato and green chili."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Combine 10ml lemon juice, 2g cumin powder and a pinch of black salt."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Toss chickpeas with veggies, add dressing and finish with fresh coriander."
+      }
+    ],
+    "macros": {
+      "calories": 420,
+      "carbs_g": 55,
+      "protein_g": 22,
+      "fat_g": 8
+    }
+  },
+  {
+    "id": "tandoori-chicken",
+    "name": "Tandoori Chicken Power Salad",
+    "tagline": "High-protein grilled chicken over greens",
+    "cuisine": "Tandoori",
+    "diet": "chicken",
+    "proteins": [
+      "chicken"
+    ],
+    "prep_time_min": 25,
+    "spice": "high",
+    "calorie_bucket": "medium",
+    "budget": "premium",
+    "dressing_style": "creamy",
+    "meal_slot": [
+      "lunch",
+      "dinner"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwc2FsYWR8ZW58MHx8fHwxNzg0NDA1OTkwfDA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Chicken breast",
+        "qty": 130,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Hung curd",
+        "qty": 30,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Tandoori spice mix",
+        "qty": 6,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Romaine lettuce",
+        "qty": 80,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Cucumber slices",
+        "qty": 50,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Chipotle dressing",
+        "qty": 20,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Walnut halves",
+        "qty": 10,
+        "unit": "g",
+        "category": "Nuts & Seeds"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Marinate 130g chicken breast in 30g hung curd + 6g tandoori mix for 15 min. Grill 4 min per side, slice."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Warm 20ml chipotle dressing briefly to loosen."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Bed of romaine + cucumber, top with sliced chicken, drizzle dressing and finish with 10g walnuts."
+      }
+    ],
+    "macros": {
+      "calories": 520,
+      "carbs_g": 12,
+      "protein_g": 42,
+      "fat_g": 32
+    }
+  },
+  {
+    "id": "grilled-fish",
+    "name": "Ajwain Grilled Fish Salad",
+    "tagline": "Coastal ajwain fish over cucumber ribbons",
+    "cuisine": "Global Fusion",
+    "diet": "fish",
+    "proteins": [
+      "fish"
+    ],
+    "prep_time_min": 18,
+    "spice": "medium",
+    "calorie_bucket": "medium",
+    "budget": "premium",
+    "dressing_style": "light",
+    "meal_slot": [
+      "lunch",
+      "dinner"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxmaXNoJTIwc2FsYWR8ZW58MHx8fHwxNzg0NDA1OTkwfDA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Basa fillet",
+        "qty": 140,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Ajwain seeds",
+        "qty": 2,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Cucumber ribbons",
+        "qty": 90,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Cherry tomatoes",
+        "qty": 50,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Olive oil",
+        "qty": 10,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Lemon vinaigrette",
+        "qty": 15,
+        "unit": "ml",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Rub 140g fish with 2g ajwain + salt. Sear in 10ml olive oil 3 min per side."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Mix 15ml lemon vinaigrette with a pinch of cracked pepper."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Arrange cucumber ribbons and halved tomatoes, top with fish, drizzle vinaigrette."
+      }
+    ],
+    "macros": {
+      "calories": 380,
+      "carbs_g": 10,
+      "protein_g": 34,
+      "fat_g": 22
+    }
+  },
+  {
+    "id": "egg-avocado",
+    "name": "Egg & Avocado Power Bowl",
+    "tagline": "Creamy avocado with soft-boiled eggs",
+    "cuisine": "Global Fusion",
+    "diet": "egg",
+    "proteins": [
+      "eggs"
+    ],
+    "prep_time_min": 12,
+    "spice": "mild",
+    "calorie_bucket": "high",
+    "budget": "premium",
+    "dressing_style": "creamy",
+    "meal_slot": [
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxhdm9jYWRvJTIwc2FsYWR8ZW58MHx8fHwxNzg0NDA1OTkwfDA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled eggs",
+        "qty": 2,
+        "unit": "piece",
+        "category": "Proteins"
+      },
+      {
+        "name": "Avocado",
+        "qty": 80,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Baby spinach",
+        "qty": 60,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Cherry tomatoes",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Thousand Island",
+        "qty": 15,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Sunflower seeds",
+        "qty": 10,
+        "unit": "g",
+        "category": "Nuts & Seeds"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Boil 2 eggs for 7 min, halve. Slice 80g avocado."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Loosen 15ml Thousand Island with 5ml water."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Layer baby spinach, avocado, tomatoes and eggs. Drizzle dressing, sprinkle 10g sunflower seeds."
+      }
+    ],
+    "macros": {
+      "calories": 610,
+      "carbs_g": 18,
+      "protein_g": 26,
+      "fat_g": 46
+    }
+  },
+  {
+    "id": "tofu-sesame",
+    "name": "Sesame Tofu Crunch Salad",
+    "tagline": "Asian-Desi fusion sesame tofu",
+    "cuisine": "Global Fusion",
+    "diet": "veg",
+    "proteins": [
+      "tofu"
+    ],
+    "prep_time_min": 15,
+    "spice": "mild",
+    "calorie_bucket": "medium",
+    "budget": "premium",
+    "dressing_style": "light",
+    "meal_slot": [
+      "lunch",
+      "dinner"
+    ],
+    "allergens": [
+      "soy"
+    ],
+    "image": "https://images.unsplash.com/photo-1543339308-43e59d6b73a6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHx0b2Z1JTIwc2FsYWR8ZW58MHx8fHwxNzg0NDA1OTkwfDA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Firm tofu cubes",
+        "qty": 130,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Sesame seeds",
+        "qty": 8,
+        "unit": "g",
+        "category": "Nuts & Seeds"
+      },
+      {
+        "name": "Purple cabbage",
+        "qty": 60,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Carrot ribbons",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Soy-ginger vinaigrette",
+        "qty": 20,
+        "unit": "ml",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Pat dry 130g tofu, roll in 8g sesame seeds. Pan-sear until golden."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk 20ml soy-ginger vinaigrette until glossy."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Combine cabbage and carrot ribbons, top with tofu, drizzle dressing."
+      }
+    ],
+    "macros": {
+      "calories": 450,
+      "carbs_g": 22,
+      "protein_g": 26,
+      "fat_g": 26
+    }
+  },
+  {
+    "id": "kala-chana",
+    "name": "Kala Chana Chaat",
+    "tagline": "High-fibre black chickpea street chaat",
+    "cuisine": "Indian Street",
+    "diet": "veg",
+    "proteins": [
+      "chickpeas"
+    ],
+    "prep_time_min": 9,
+    "spice": "medium",
+    "calorie_bucket": "low",
+    "budget": "budget",
+    "dressing_style": "desi",
+    "meal_slot": [
+      "snack"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxjaGFhdCUyMHNhbGFkfGVufDB8fHx8MTc4NDQwNTk5MHww&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled kala chana",
+        "qty": 130,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Onion, diced",
+        "qty": 30,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomato, diced",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tamarind chutney",
+        "qty": 15,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Chaat masala",
+        "qty": 3,
+        "unit": "g",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Drain 130g boiled kala chana. Dice onion and tomato."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Mix 15ml tamarind chutney with 3g chaat masala."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Toss everything together, finish with coriander leaves."
+      }
+    ],
+    "macros": {
+      "calories": 360,
+      "carbs_g": 52,
+      "protein_g": 20,
+      "fat_g": 4
+    }
+  },
+  {
+    "id": "quinoa-berry",
+    "name": "Quinoa Berry Bowl",
+    "tagline": "Antioxidant-rich premium salad",
+    "cuisine": "Global Fusion",
+    "diet": "veg",
+    "proteins": [
+      "chickpeas"
+    ],
+    "prep_time_min": 15,
+    "spice": "mild",
+    "calorie_bucket": "medium",
+    "budget": "premium",
+    "dressing_style": "light",
+    "meal_slot": [
+      "lunch"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxxdWlub2ElMjBzYWxhZHxlbnwwfHx8fDE3ODQ0MDU5OTB8MA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Cooked quinoa",
+        "qty": 100,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Blueberries",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Baby arugula",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Almonds, slivered",
+        "qty": 12,
+        "unit": "g",
+        "category": "Nuts & Seeds"
+      },
+      {
+        "name": "Balsamic vinaigrette",
+        "qty": 15,
+        "unit": "ml",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Cool 100g cooked quinoa. Rinse berries and arugula."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk 15ml balsamic vinaigrette with a pinch of pepper."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Combine quinoa, arugula and berries, top with 12g almonds, drizzle vinaigrette."
+      }
+    ],
+    "macros": {
+      "calories": 390,
+      "carbs_g": 48,
+      "protein_g": 12,
+      "fat_g": 15
+    }
+  },
+  {
+    "id": "paneer-tikka-warm",
+    "name": "Paneer Tikka Chaat Salad",
+    "tagline": "Warm paneer tikka + chaat crunch",
+    "cuisine": "Tandoori",
+    "diet": "veg",
+    "proteins": [
+      "paneer"
+    ],
+    "prep_time_min": 18,
+    "spice": "high",
+    "calorie_bucket": "high",
+    "budget": "budget",
+    "dressing_style": "desi",
+    "meal_slot": [
+      "dinner"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908812836-4c3e78b4f4a9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxwYW5lZXIlMjB0aWtrYXxlbnwwfHx8fDE3ODQ0MDU5OTB8MA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "qty": 140,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Hung curd",
+        "qty": 30,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Tikka masala",
+        "qty": 6,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Onion rings",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Bell pepper",
+        "qty": 50,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Mint chutney",
+        "qty": 15,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Sev",
+        "qty": 10,
+        "unit": "g",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Marinate 140g paneer in curd+tikka masala 10 min. Skewer with pepper and onion, grill 8 min."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Thin 15ml mint chutney with lemon juice."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Plate warm tikka, drizzle chutney, sprinkle 10g sev before serving."
+      }
+    ],
+    "macros": {
+      "calories": 620,
+      "carbs_g": 22,
+      "protein_g": 30,
+      "fat_g": 42
+    }
+  },
+  {
+    "id": "chicken-chipotle",
+    "name": "Chipotle Chicken Caesar",
+    "tagline": "Smoky chipotle chicken caesar",
+    "cuisine": "Global Fusion",
+    "diet": "chicken",
+    "proteins": [
+      "chicken"
+    ],
+    "prep_time_min": 20,
+    "spice": "medium",
+    "calorie_bucket": "high",
+    "budget": "premium",
+    "dressing_style": "creamy",
+    "meal_slot": [
+      "dinner"
+    ],
+    "allergens": [
+      "dairy",
+      "gluten"
+    ],
+    "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxjYWVzYXIlMjBzYWxhZHxlbnwwfHx8fDE3ODQ0MDU5OTB8MA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Chicken breast",
+        "qty": 140,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Chipotle paste",
+        "qty": 8,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Romaine",
+        "qty": 90,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Parmesan shavings",
+        "qty": 15,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Croutons",
+        "qty": 20,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Caesar dressing",
+        "qty": 25,
+        "unit": "ml",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Coat 140g chicken with 8g chipotle paste, grill 4 min/side, slice."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk 25ml caesar dressing until smooth."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Toss romaine with dressing, top with chicken, croutons and parmesan."
+      }
+    ],
+    "macros": {
+      "calories": 640,
+      "carbs_g": 20,
+      "protein_g": 46,
+      "fat_g": 40
+    }
+  },
+  {
+    "id": "rajma-fiesta",
+    "name": "Rajma Fiesta Salad",
+    "tagline": "Kidney beans + corn Tex-Mex twist",
+    "cuisine": "Global Fusion",
+    "diet": "veg",
+    "proteins": [
+      "chickpeas"
+    ],
+    "prep_time_min": 10,
+    "spice": "medium",
+    "calorie_bucket": "medium",
+    "budget": "budget",
+    "dressing_style": "desi",
+    "meal_slot": [
+      "lunch"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1543353071-10c8ba85a904?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxiZWFuJTIwc2FsYWR8ZW58MHx8fHwxNzg0NDA1OTkwfDA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled rajma",
+        "qty": 130,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Sweet corn",
+        "qty": 60,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Onion, diced",
+        "qty": 30,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomato, diced",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Lime juice",
+        "qty": 10,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Coriander",
+        "qty": 8,
+        "unit": "g",
+        "category": "Produce"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Drain 130g rajma and 60g corn. Dice onion and tomato."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk lime juice with chili flakes and salt."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Toss all ingredients with dressing, top with fresh coriander."
+      }
+    ],
+    "macros": {
+      "calories": 430,
+      "carbs_g": 60,
+      "protein_g": 20,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "walnut-apple",
+    "name": "Walnut Apple Kale Bowl",
+    "tagline": "Kale + apple + walnut crunch",
+    "cuisine": "Global Fusion",
+    "diet": "veg",
+    "proteins": [],
+    "prep_time_min": 8,
+    "spice": "mild",
+    "calorie_bucket": "low",
+    "budget": "premium",
+    "dressing_style": "light",
+    "meal_slot": [
+      "breakfast",
+      "snack"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxrYWxlJTIwc2FsYWR8ZW58MHx8fHwxNzg0NDA1OTkwfDA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Kale, chopped",
+        "qty": 80,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Apple, diced",
+        "qty": 60,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Walnut halves",
+        "qty": 15,
+        "unit": "g",
+        "category": "Nuts & Seeds"
+      },
+      {
+        "name": "Lemon vinaigrette",
+        "qty": 15,
+        "unit": "ml",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Massage 80g kale with a drop of oil until softened."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk 15ml lemon vinaigrette with a pinch of maple."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Toss kale with apple, top with 15g walnuts and vinaigrette."
+      }
+    ],
+    "macros": {
+      "calories": 280,
+      "carbs_g": 24,
+      "protein_g": 6,
+      "fat_g": 18
+    }
+  },
+  {
+    "id": "egg-desi",
+    "name": "Desi Anda Bhurji Salad",
+    "tagline": "Warm masala eggs over crisp veggies",
+    "cuisine": "Indian Street",
+    "diet": "egg",
+    "proteins": [
+      "eggs"
+    ],
+    "prep_time_min": 10,
+    "spice": "medium",
+    "calorie_bucket": "medium",
+    "budget": "budget",
+    "dressing_style": "desi",
+    "meal_slot": [
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxlZ2clMjBzYWxhZHxlbnwwfHx8fDE3ODQ0MDU5OTB8MA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Eggs",
+        "qty": 2,
+        "unit": "piece",
+        "category": "Proteins"
+      },
+      {
+        "name": "Onion, chopped",
+        "qty": 30,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomato, chopped",
+        "qty": 30,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Cucumber slices",
+        "qty": 60,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Garam masala",
+        "qty": 2,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Lemon juice",
+        "qty": 10,
+        "unit": "ml",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Scramble 2 eggs with onion, tomato and 2g garam masala."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Squeeze 10ml lemon juice over cucumber base."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Layer cucumber, top with warm bhurji and coriander."
+      }
+    ],
+    "macros": {
+      "calories": 340,
+      "carbs_g": 12,
+      "protein_g": 20,
+      "fat_g": 22
+    }
+  },
+  {
+    "id": "grilled-fish-mango",
+    "name": "Grilled Fish Mango Salsa Bowl",
+    "tagline": "Grilled fish with tangy mango salsa",
+    "cuisine": "Global Fusion",
+    "diet": "fish",
+    "proteins": [
+      "fish"
+    ],
+    "prep_time_min": 22,
+    "spice": "medium",
+    "calorie_bucket": "medium",
+    "budget": "premium",
+    "dressing_style": "light",
+    "meal_slot": [
+      "dinner"
+    ],
+    "allergens": [
+      "seafood"
+    ],
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxncmlsbGVkJTIwZmlzaCUyMHNhbGFkfGVufDB8fHx8MTc4NDQwNTk5MHww&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Salmon or basa",
+        "qty": 140,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Raw mango, diced",
+        "qty": 60,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Baby spinach",
+        "qty": 60,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Cherry tomatoes",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Lemon vinaigrette",
+        "qty": 15,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Pumpkin seeds",
+        "qty": 8,
+        "unit": "g",
+        "category": "Nuts & Seeds"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Season 140g fish with salt-pepper, grill 3 min/side."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Combine mango dice with 15ml lemon vinaigrette."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Layer spinach and tomatoes, top with fish and mango salsa, sprinkle seeds."
+      }
+    ],
+    "macros": {
+      "calories": 470,
+      "carbs_g": 20,
+      "protein_g": 36,
+      "fat_g": 26
+    }
+  },
+  {
+    "id": "avocado-chickpea",
+    "name": "Avocado Chickpea Toss",
+    "tagline": "Premium avocado chickpea power salad",
+    "cuisine": "Global Fusion",
+    "diet": "veg",
+    "proteins": [
+      "chickpeas"
+    ],
+    "prep_time_min": 8,
+    "spice": "mild",
+    "calorie_bucket": "high",
+    "budget": "premium",
+    "dressing_style": "creamy",
+    "meal_slot": [
+      "lunch"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxhdm9jYWRvJTIwYm93bHxlbnwwfHx8fDE3ODQ0MDU5OTB8MA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled chickpeas",
+        "qty": 120,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Avocado",
+        "qty": 80,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Cherry tomatoes",
+        "qty": 50,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Red onion",
+        "qty": 20,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Chipotle mayo",
+        "qty": 15,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Almond slivers",
+        "qty": 10,
+        "unit": "g",
+        "category": "Nuts & Seeds"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Halve tomatoes, dice avocado and onion."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk 15ml chipotle mayo with a squeeze of lemon."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Combine chickpeas, avocado, veggies. Drizzle mayo, top with 10g almonds."
+      }
+    ],
+    "macros": {
+      "calories": 580,
+      "carbs_g": 42,
+      "protein_g": 20,
+      "fat_g": 34
+    }
+  },
+  {
+    "id": "classic-american-egg-salad",
+    "name": "Classic American Egg Salad Sandwich",
+    "tagline": "Creamy 10-minute egg salad that goes great on toast",
+    "cuisine": "Global Fusion",
+    "diet": "egg",
+    "proteins": [
+      "Eggs"
+    ],
+    "prep_time_min": 10,
+    "spice": "mild",
+    "calorie_bucket": "medium",
+    "budget": "budget",
+    "dressing_style": "creamy",
+    "meal_slot": [
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "allergens": [
+      "Mustard"
+    ],
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxlZ2clMjBzYWxhZHxlbnwwfHx8fDE3ODQ0MDU5OTB8MA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled eggs",
+        "qty": 100,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Mayonnaise",
+        "qty": 20,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Dijon mustard",
+        "qty": 5,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Spring onion",
+        "qty": 10,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Paprika",
+        "qty": 1,
+        "unit": "g",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Boil 2 eggs, cool, peel and roughly chop. Finely slice spring onion."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Mix mayonnaise, mustard, salt and pepper in a bowl."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Fold the chopped eggs and spring onion into the dressing. Sprinkle paprika on top and serve on toast, lettuce wraps or crackers."
+      }
+    ],
+    "macros": {
+      "calories": 280,
+      "carbs_g": 4,
+      "protein_g": 14,
+      "fat_g": 22
+    }
+  },
+  {
+    "id": "cobb-egg-salad",
+    "name": "Cobb Egg Salad",
+    "tagline": "Restaurant-style layered salad that eats like a full meal",
+    "cuisine": "Global Fusion",
+    "diet": "chicken",
+    "proteins": [
+      "Eggs",
+      "Chicken"
+    ],
+    "prep_time_min": 10,
+    "spice": "mild",
+    "calorie_bucket": "high",
+    "budget": "premium",
+    "dressing_style": "light",
+    "meal_slot": [
+      "lunch",
+      "dinner"
+    ],
+    "allergens": [
+      "Dairy"
+    ],
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxjaGlja2VuJTIwc2FsYWR8ZW58MHx8fHwxNzg0NDA1OTkwfDA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled eggs",
+        "qty": 100,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Grilled chicken",
+        "qty": 60,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Lettuce",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Cherry tomatoes",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Cucumber",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Feta cheese",
+        "qty": 20,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Olive oil",
+        "qty": 10,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Lemon juice",
+        "qty": 5,
+        "unit": "ml",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Boil and slice eggs. Chop lettuce, cherry tomatoes and cucumber. Slice grilled chicken."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk olive oil and lemon juice with a pinch of salt and pepper."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Layer lettuce, chicken, tomato and cucumber in a bowl. Top with sliced eggs and crumbled feta. Drizzle dressing over the top."
+      }
+    ],
+    "macros": {
+      "calories": 380,
+      "carbs_g": 8,
+      "protein_g": 28,
+      "fat_g": 26
+    }
+  },
+  {
+    "id": "mediterranean-egg-salad",
+    "name": "Mediterranean Egg Salad",
+    "tagline": "Fresh, no-mayo egg salad with olives and feta",
+    "cuisine": "Global Fusion",
+    "diet": "egg",
+    "proteins": [
+      "Eggs"
+    ],
+    "prep_time_min": 5,
+    "spice": "mild",
+    "calorie_bucket": "medium",
+    "budget": "budget",
+    "dressing_style": "light",
+    "meal_slot": [
+      "lunch",
+      "snack"
+    ],
+    "allergens": [
+      "Dairy"
+    ],
+    "image": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxjaGlja3BlYSUyMHNhbGFkfGVufDB8fHx8MTc4NDQwNTk5MHww&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled eggs",
+        "qty": 100,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Cucumber",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": 40,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Olives",
+        "qty": 15,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Feta cheese",
+        "qty": 20,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Parsley",
+        "qty": 5,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Olive oil",
+        "qty": 10,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Lemon juice",
+        "qty": 5,
+        "unit": "ml",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Boil and chop eggs. Dice cucumber and tomato, roughly chop parsley."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk olive oil with lemon juice, a pinch of oregano and salt."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Toss eggs, cucumber, tomato, olives and feta together. Drizzle with the dressing and finish with parsley."
+      }
+    ],
+    "macros": {
+      "calories": 260,
+      "carbs_g": 6,
+      "protein_g": 15,
+      "fat_g": 20
+    }
+  },
+  {
+    "id": "anda-bhurji-salad",
+    "name": "Anda Bhurji Salad",
+    "tagline": "Indian street-style egg salad with masala and lemon",
+    "cuisine": "Indian Street",
+    "diet": "egg",
+    "proteins": [
+      "Eggs"
+    ],
+    "prep_time_min": 7,
+    "spice": "medium",
+    "calorie_bucket": "low",
+    "budget": "budget",
+    "dressing_style": "desi",
+    "meal_slot": [
+      "breakfast",
+      "lunch",
+      "snack"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxhdm9jYWRvJTIwc2FsYWR8ZW58MHx8fHwxNzg0NDA1OTkwfDA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled eggs",
+        "qty": 100,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Onion",
+        "qty": 30,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": 30,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Green chili",
+        "qty": 3,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": 5,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Cumin powder",
+        "qty": 2,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Chaat masala",
+        "qty": 2,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Lemon juice",
+        "qty": 5,
+        "unit": "ml",
+        "category": "Condiments"
+      },
+      {
+        "name": "Olive oil",
+        "qty": 5,
+        "unit": "ml",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Boil and roughly chop eggs. Finely chop onion, tomato, green chili and coriander."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Mix cumin powder, chaat masala, lemon juice, olive oil and salt in a small bowl."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Lightly toss the eggs with onion, tomato and the spiced dressing. Finish with coriander. Eat as-is or with brown bread."
+      }
+    ],
+    "macros": {
+      "calories": 220,
+      "carbs_g": 6,
+      "protein_g": 14,
+      "fat_g": 15
+    }
+  },
+  {
+    "id": "egg-curry-salad-no-curry",
+    "name": "Egg Curry Salad (No Curry Version)",
+    "tagline": "Tastes like egg curry, served cold and light",
+    "cuisine": "Indian Street",
+    "diet": "egg",
+    "proteins": [
+      "Eggs"
+    ],
+    "prep_time_min": 10,
+    "spice": "medium",
+    "calorie_bucket": "low",
+    "budget": "budget",
+    "dressing_style": "desi",
+    "meal_slot": [
+      "lunch",
+      "dinner"
+    ],
+    "allergens": [
+      "Dairy"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908812836-4c3e78b4f4a9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxwYW5lZXIlMjB0aWtrYXxlbnwwfHx8fDE3ODQ0MDU5OTB8MA&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled eggs",
+        "qty": 100,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Lettuce",
+        "qty": 30,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Onion",
+        "qty": 20,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": 20,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Hung curd",
+        "qty": 40,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Turmeric",
+        "qty": 1,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Garam masala",
+        "qty": 2,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Cumin powder",
+        "qty": 2,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": 5,
+        "unit": "g",
+        "category": "Produce"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Boil eggs and halve them. Chop lettuce, onion and tomato."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Whisk hung curd with turmeric, garam masala, cumin powder and salt."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Arrange the eggs over the lettuce, onion and tomato, then pour the curd dressing on top. Finish with coriander."
+      }
+    ],
+    "macros": {
+      "calories": 240,
+      "carbs_g": 8,
+      "protein_g": 16,
+      "fat_g": 15
+    }
+  },
+  {
+    "id": "mumbai-anda-masala-salad",
+    "name": "Mumbai Style Anda Masala Salad",
+    "tagline": "Tangy, spicy chaat-style egg salad with sev crunch",
+    "cuisine": "Indian Street",
+    "diet": "egg",
+    "proteins": [
+      "Eggs"
+    ],
+    "prep_time_min": 12,
+    "spice": "high",
+    "calorie_bucket": "medium",
+    "budget": "budget",
+    "dressing_style": "desi",
+    "meal_slot": [
+      "snack",
+      "lunch"
+    ],
+    "allergens": [],
+    "image": "https://images.unsplash.com/photo-1622732777601-e744c3401d44?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTV8MHwxfHNlYXJjaHwxfHxzcHJvdXRzJTIwc2FsYWQlMjBpbmRpYW4lMjBoZWFsdGh5fGVufDB8fHx8MTc4NDQwNTk5MHww&ixlib=rb-4.1.0&q=85",
+    "ingredients": [
+      {
+        "name": "Boiled eggs",
+        "qty": 100,
+        "unit": "g",
+        "category": "Proteins"
+      },
+      {
+        "name": "Boiled potato",
+        "qty": 50,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Onion",
+        "qty": 20,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Tomato",
+        "qty": 20,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Coriander leaves",
+        "qty": 5,
+        "unit": "g",
+        "category": "Produce"
+      },
+      {
+        "name": "Sev",
+        "qty": 10,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Green chutney",
+        "qty": 10,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Tamarind chutney",
+        "qty": 10,
+        "unit": "g",
+        "category": "Condiments"
+      },
+      {
+        "name": "Chaat masala",
+        "qty": 2,
+        "unit": "g",
+        "category": "Condiments"
+      }
+    ],
+    "steps": [
+      {
+        "phase": "Preparation",
+        "text": "Boil and slice eggs. Cube boiled potato. Chop onion, tomato and coriander."
+      },
+      {
+        "phase": "Dressing",
+        "text": "Have green chutney and tamarind chutney ready alongside chaat masala and black salt."
+      },
+      {
+        "phase": "Tossing",
+        "text": "Mix eggs, potato, onion and tomato with the chutneys and chaat masala. Top with sev just before eating for crunch. Skip the potato if it doesn't fit your carbs for the day."
+      }
+    ],
+    "macros": {
+      "calories": 300,
+      "carbs_g": 22,
+      "protein_g": 14,
+      "fat_g": 16
+    }
+  }
+]

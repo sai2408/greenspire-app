@@ -1,0 +1,163 @@
+{
+  "app_name": "GreenSpire",
+  "personality": "1 iOS-Native Clean",
+  "personality_one_liner": "A structured, fresh, and vibrant Indian salad planner that lets beautiful food photography shine against soft cream canvases with playful floating veggie micro-animations.",
+  "color": {
+    "surface": "#FDFBF7",
+    "onSurface": "#111A13",
+    "surfaceSecondary": "#FFFFFF",
+    "onSurfaceSecondary": "#1B2A1E",
+    "surfaceTertiary": "#F2EFE9",
+    "onSurfaceTertiary": "#2E3B32",
+    "surfaceInverse": "#111A13",
+    "onSurfaceInverse": "#FFFFFF",
+    "brand": "#2E7D32",
+    "brandPrimary": "#2E7D32",
+    "onBrandPrimary": "#FFFFFF",
+    "brandSecondary": "#EF6C00",
+    "onBrandSecondary": "#FFFFFF",
+    "brandTertiary": "#E8F5E9",
+    "onBrandTertiary": "#1B5E20",
+    "success": "#2E7D32",
+    "onSuccess": "#FFFFFF",
+    "warning": "#EF6C00",
+    "onWarning": "#FFFFFF",
+    "error": "#D32F2F",
+    "onError": "#FFFFFF",
+    "border": "#E5E0D8",
+    "borderStrong": "#C5BCAE",
+    "divider": "#E5E0D8"
+  },
+  "typography": {
+    "displayFontFamily": "Plus Jakarta Sans",
+    "textFontFamily": "Geist",
+    "scale": {
+      "sm": 12,
+      "base": 14,
+      "lg": 16,
+      "xl": 20,
+      "2xl": 24
+    }
+  },
+  "spacing": {
+    "rule": "Generous iOS-native margins (lg/xl) around main content blocks, with tighter (sm/md) grouping inside cards.",
+    "xs": 4,
+    "sm": 8,
+    "md": 12,
+    "lg": 16,
+    "xl": 24,
+    "2xl": 32,
+    "3xl": 48
+  },
+  "radius_tokens": {
+    "sm": 6,
+    "md": 12,
+    "lg": 20,
+    "pill": 999
+  },
+  "shadow_tier": 1,
+  "navigation": "bottom_tabs",
+  "icon_set": "Ionicons",
+  "glassmorphism": {
+    "enabled": true,
+    "do's": [
+      "Bottom tab bar when content scrolls behind",
+      "Sticky header backgrounds over scrolling content",
+      "Bottom-sheet headers/handles",
+      "Floating Action Buttons"
+    ],
+    "dont's": [
+      "Form fields",
+      "Body text regions",
+      "Cards in dense lists"
+    ]
+  },
+  "platform_libraries": {
+    "glass": {
+      "ios": "expo-glass-effect",
+      "android": "expo-blur",
+      "low_end_android_fallback": "solid surfaceSecondary"
+    },
+    "image": "expo-image",
+    "blur": "expo-blur",
+    "bottom_sheet": "@gorhom/bottom-sheet",
+    "animation": "react-native-reanimated",
+    "gesture": "react-native-gesture-handler"
+  },
+  "screens": [
+    {
+      "name": "Auth",
+      "purpose": "Mock Google Sign-in gateway with vibrant fresh imagery.",
+      "states": {
+        "loading": "Stylized floating veggies (avocados, tomatoes) with a spinner.",
+        "empty": "N/A",
+        "error": "Standard error toast or inline alert."
+      },
+      "layout": "Hero image filling top 50% with vertical gradient scrim fading into surface color. Brand logo/wordmark. Large 'Sign in with Google' pill button at the bottom (brandSecondary / Carrot Orange for pop)."
+    },
+    {
+      "name": "OnboardingQuestionnaire",
+      "purpose": "10-step preference setup chunked into 3 manageable screens to reduce drop-off, capturing diet, goals, allergies, and logistics.",
+      "states": {
+        "loading": "Floating veggies + nuts (almonds, walnuts) transitioning between steps.",
+        "empty": "N/A",
+        "error": "Highlight missing required selections."
+      },
+      "layout": "Linear progress bar (no numbers) at top. Chunked screens: 1. Goals & Profile (Fitness goal, Calorie Target, Diet Type). 2. Taste (Proteins, Spice tolerance, Dressing style, Allergies). 3. Logistics (Prep time, Budget, Meal slot). Use tap-to-advance cards, tag grids, and sliders with edge labels. Bottom sticky 'Next' button."
+    },
+    {
+      "name": "HomePlanner",
+      "purpose": "Dashboard showing today's macro targets and weekly meal calendar.",
+      "states": {
+        "loading": "Skeleton UI for calendar and donut chart.",
+        "empty": "Illustration of an empty salad bowl + CTA 'Plan your first salad'.",
+        "error": "Error message with 'Retry' button."
+      },
+      "layout": "Header with compressed weekly calendar strip. Below: Macro/Calorie dashboard featuring a Reanimated Donut Chart (Carbs/Protein/Fats % matching brand greens/orange). Below: 'Today's Salads' horizontal scrolling cards. FAB for Instagram sharing."
+    },
+    {
+      "name": "RecipeDetail",
+      "purpose": "Granular recipe viewer with scalable portions and step-by-step prep instructions.",
+      "states": {
+        "loading": "Full screen spinner with floating nut illustrations.",
+        "empty": "N/A",
+        "error": "Failed to load recipe - Retry CTA."
+      },
+      "layout": "Full-bleed hero image with strict gradient scrim (0% to 70%+ surfaceInverse) for high contrast text overlay (Recipe Title & Prep Time). Portion Scaler (+/- pills) sticky below header. Granular ingredients list (grams/ml) with checkmarks. Step-by-step instructions. Bottom sticky CTA 'Add to Planner'."
+    },
+    {
+      "name": "GroceryList",
+      "purpose": "Smart, categorized shopping list for the planned meals.",
+      "states": {
+        "loading": "Skeleton list items.",
+        "empty": "Illustration of an empty shopping bag + 'Your planner is empty'.",
+        "error": "Failed to load grocery sync - Retry CTA."
+      },
+      "layout": "SectionList grouped by categories (Produce, Proteins, Condiments, Nuts & Seeds). Each item has a checkbox. Checked items move to a collapsed 'Completed' section at the bottom."
+    }
+  ],
+  "images": {
+    "auth_hero": {
+      "url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTN8MHwxfHNlYXJjaHwxfHxmcmVzaCUyMHNhbGFkJTIwYm93bHxlbnwwfHx8fDE3ODQ0MDU5OTB8MA&ixlib=rb-4.1.0&q=85",
+      "alt": "Bowl of fresh vegetable salads"
+    },
+    "recipe_hero_sprouts": {
+      "url": "https://images.unsplash.com/photo-1622732777601-e744c3401d44?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1OTV8MHwxfHNlYXJjaHwxfHxzcHJvdXRzJTIwc2FsYWQlMjBpbmRpYW4lMjBoZWFsdGh5fGVufDB8fHx8MTc4NDQwNTk5MHww&ixlib=rb-4.1.0&q=85",
+      "alt": "Indian sprouted moong salad in a dark bowl"
+    },
+    "onboarding_bg_veggies": {
+      "url": "https://images.pexels.com/photos/38337915/pexels-photo-38337915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "alt": "Vibrant tomatoes and cucumbers under sunlight"
+    }
+  },
+  "instructions_to_main_agent": [
+    "Strictly follow the color palette: Leaf Green (#2E7D32) and Carrot Orange (#EF6C00) must be the primary accents against the soft cream surface (#FDFBF7).",
+    "Implement stylized floaters (avocados, cucumbers, tomatoes, almonds, walnuts) using react-native-reanimated. Trigger these during loading states, page transitions, and the onboarding flow.",
+    "The 10-step questionnaire must NOT be 10 separate screens. Chunk them into 3 logical steps (Goals, Taste, Logistics) using vertical stack grids and tap-to-advance cards to prevent user drop-off. Show a linear progress bar without numbers.",
+    "On the Recipe Detail screen, ensure the Hero Image uses a STRICT gradient scrim (0% transparent to 70%+ opacity of surfaceInverse) to guarantee WCAG text readability on the overlaid Recipe Title.",
+    "Build the Calorie & Macro dashboard using a donut chart for Carbs/Protein/Fats %. Use reanimated for smooth rendering of the chart upon screen load.",
+    "Grocery list must be grouped by exactly these categories: Produce, Proteins, Condiments, Nuts & Seeds.",
+    "Include an Instagram Share action (mocked behavior) that generates a snapshot-friendly card with predefined viral hashtags.",
+    "Use mock data throughout (Mock Google Sign-in, Mock Recipe data)."
+  ]
+}
